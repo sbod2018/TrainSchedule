@@ -1,0 +1,23 @@
+{
+  "name": "trainschedule",
+  "version": "1.0.0",
+  "description": "Front-end train schedule application",
+  "main": "index.js",
+  "dependencies": {
+    "heroku": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbod2018/TrainSchedule.git"
+  },
+  "author": "shauna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbod2018/TrainSchedule/issues"
+  },
+  "homepage": "https://github.com/sbod2018/TrainSchedule#readme"
+}

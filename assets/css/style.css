@@ -1,0 +1,32 @@
+body {
+  background-image: url(images/Station.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#heading {
+  font-family: Times;
+  font-weight: bold;
+}
+
+#subHeading {
+  font-family: Times;
+  font-style: italic;
+}
+
+.panel-title {
+  font-weight: bold;
+}
+
+th {
+  font-weight: bold;
+}
+
+.jumbotron {
+  background-color: darkgoldenrod !important;
+}
+
+.panel {
+  background-color: darkgoldenrod !important;
+}
+
